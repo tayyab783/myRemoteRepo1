@@ -1,0 +1,15 @@
+#No need to write shebang line
+
+GoodMorning() {
+
+  echo "Welcome to the function"
+  echo "Today is : "
+  date
+}
+
+GoodAfternoon() {
+
+  echo "Good Afternoon"
+}
+
+
