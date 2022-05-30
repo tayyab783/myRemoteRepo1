@@ -1,4 +1,3 @@
-this is first line of master branch
+this is first line of issue1 branch
 
-second line
-
+this is second line
